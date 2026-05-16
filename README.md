@@ -2,9 +2,9 @@
 
 This repository is a curated collection of **official resources, assignment guidelines, and quiz materials** from a **Graphic Design Internship Program**.
 
-Unlike my more detailed and structured internship documentation (such as my UX & Game Design work), this repository serves as a **lightweight archive** of materials gathered for reference and study purposes.
+Unlike my more detailed and structured internship documentation (such as my UX & Game Design work), this repository serves primarily as a **lightweight archive** of internship materials gathered for reference and study purposes.
 
-Some of the resources were **originally compiled and shared within peer groups (e.g., friends or fellow interns)** and have been organized here for easier access and long-term preservation.
+Some of the resources were **originally compiled and shared within peer groups (friends or fellow interns)** and have been organized here for easier access, preservation, and convenient browsing.
 
 ---
 
@@ -12,60 +12,61 @@ Some of the resources were **originally compiled and shared within peer groups (
 
 The goal of this repository is to:
 
-* Maintain a **centralized archive** of official internship materials
-* Provide quick access to **learning resources across design tools and topics**
+* Maintain a **centralized archive** of internship learning materials
+* Provide quick access to **design resources, tools, and references**
 * Preserve **assignment guidelines and quiz references** in one place
+* Organize shared internship content into a cleaner, maintainable structure
 
-This is **not a fully documented project repository**, but rather a structured collection of provided content.
+This repository is intended mainly for **reference and archival purposes**, rather than as a fully documented coursework repository.
 
 ---
 
 ## Repository Structure
 
-The repository is organized into modular folders:
+The repository is organized into modular folders based on course chapters and materials:
 
-* `assignments/` – assignment guidelines
-* `graphic-design/official-resources/` – general graphic design resources
-* `adobe-lightroom/official-resources/` – official Adobe Lightroom materials
-* `master-photoshop/official-resources/` – Photoshop-related materials
-* `social-media-marketing/official-resources/` – marketing and content design resources
+* `graphic-design/` – core graphic design concepts and official resources
+* `adobe-lightroom/` – Adobe Lightroom learning materials and references
+* `master-photoshop/` – Photoshop-related coursework and resources
+* `social-media-marketing/` – bonus chapter covering branding, marketing, and content strategy
+* `assignments/` – official internship assignment guidelines
 
-Each section contains only **official or shared reference material**, without additional annotations or personal coursework.
+Each section primarily contains **official or shared reference materials**, without extensive personal notes, solutions, or project documentation.
 
 ---
 
 ## Assignments
 
-The `assignments/` folder includes **official assignment guidelines** provided during the internship.
+The `assignments/` folder contains **official assignment guidelines** provided during the internship program.
 
-**Naming Convention:**
+### Naming Convention
 
 * `A01 Project Guidelines.pdf`
 * `A02 Project Guidelines.pdf`
 * `A03 Project Guidelines.pdf`
 * …and so on
 
-These documents outline task requirements but do not include completed submissions.
+These files outline assignment requirements and instructions but generally do not include completed submissions or deliverables.
 
 ---
 
 ## Course Quizzes
 
-Quiz content from the internship is available here:
+Quiz content from the internship course is available online for reference and revision:
 
-[Github Pages > Runarok > GenAI-plus > Course > Internship Quiz](https://runarok.github.io/GenAI-plus/Course/Graphic%20Design/index.html)
+[Graphic Design Internship Quiz](https://runarok.github.io/GenAI-plus/Course/Graphic%20Design/index.html)
 
 ---
 
 ## Important Note
 
-* This repository is **not an original, fully-developed internship log**
-* It does **not include personal notes, solutions, or project deliverables**
-* It primarily consists of **official materials and shared resources**
-* Content may have been **aggregated from peers for convenience**
+* This repository is **not a fully documented personal internship journey**
+* It does **not include detailed coursework, completed projects, or extensive personal notes**
+* Most content consists of **official materials and shared peer resources**
+* Some resources may have been **aggregated from fellow interns or shared study groups** for convenience and preservation
 
-For a more structured and detailed internship repository (with coursework, notes, and deliverables), refer to:
+For a more detailed and structured internship repository containing coursework, notes, assignments, and deliverables, refer to:
 
-👉 [https://github.com/Runarok/ux-game-intern/](https://github.com/Runarok/ux-game-intern/)
+👉 [UX & Game Design Internship Repository](https://github.com/Runarok/ux-game-intern)
 
 ---
